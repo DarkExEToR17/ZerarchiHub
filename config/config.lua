@@ -1,3 +1,1 @@
-local settings = {
-  astra = "baka"
-}
+astra = "baka"
