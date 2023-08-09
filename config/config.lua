@@ -1,5 +1,5 @@
 {
   credit = {
-  astra = "test"
+    _astra = "test"
   }
 }
