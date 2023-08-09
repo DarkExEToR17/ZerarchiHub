@@ -1,5 +1,2 @@
-{
-  credit = {
-    _astra = "test"
-  }
-}
+_ad1 = "leroidu45"
+_ad2 = "Succes"
