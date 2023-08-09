@@ -1,3 +1,3 @@
-{
+local settings = {
   astra = "baka"
 }
