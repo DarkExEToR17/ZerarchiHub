@@ -10,6 +10,7 @@ _sigma = "sigma  |  giga_Sigma200  |  Friend,Admin,Helper"
 
 
 _scmsg = "Succes"
+_betamsg = "Your Launching Beta Version Of ZerarchiHub, Welcome"
 
 _blc = "nil"
 _blc1 = "nil"
