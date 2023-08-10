@@ -1,4 +1,4 @@
-_ad1 = "lerozzdqsfidu5"
+_ad1 = "nil"
 _ad2 = "CoolSupX_0"
 _ad3 = "nil"
 _ad4 = "nil"
