@@ -1,0 +1,29 @@
+return {
+  Credit {
+    "Astra Develloper"
+  }
+
+  BetaTester {
+    "Kepic",
+    "Big Burger"
+  }
+  
+  Status {
+    "Beta"
+  }
+
+  ApiStatus {
+    "soon"
+  }
+
+  BlackListed {
+    "nil"
+  }
+
+  AdminCommand {
+    "kick",
+    "DelScript",
+    "kill",
+    "fire"
+  }
+}
